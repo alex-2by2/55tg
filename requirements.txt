@@ -1,0 +1,5 @@
+fastapi
+python-telegram-bot[aio]==22.4
+uvicorn
+requests
+gunicorn
